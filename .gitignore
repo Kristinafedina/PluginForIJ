@@ -81,7 +81,7 @@ hs_err_pid*
 *.exe
 
 # Ignore log
-# *.log
+*.log
 *.log.[1234567890]
 
 # Ignore IntelliJ IDEA Config Files
@@ -89,15 +89,15 @@ hs_err_pid*
 
 # Ignore Picture
 *.bmp
-# *.png
+*.png
 *.jpg
 *.jpeg
 
 # Ignore doc/notes.txt, but not doc/info/arch.txt
-# doc/*.txt
+ doc/*.txt
 
 # Ignore all .txt files in the directory doc/
-# doc/**/*.txt
+doc/**/*.txt
 
 # Ignore .doc .pfd .docx
 *.doc
